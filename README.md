@@ -10,7 +10,7 @@ For a full list of variables included in this PUF and their descriptions, please
 
 <div align="center">
 <p float="left">
-    <img src="/images/felicidade.png" width="1000" height="500"/>
+    <img src="/images/cms.png" width="400" height="300"/>
 </p>
 </div>
 
